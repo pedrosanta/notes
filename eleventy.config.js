@@ -76,11 +76,11 @@ export default async function(eleventyConfig) {
 		},
 		metadata: {
 			language: "en",
-			title: "Blog Title",
-			subtitle: "This is a longer description about your blog.",
-			base: "https://example.com/",
+			title: "Pedro Santa Notes",
+			subtitle: "A small personal notes blog on technology, society and balance.",
+			base: "https://notes.pedrosanta.com/",
 			author: {
-				name: "Your Name"
+				name: "Pedro Santa"
 			}
 		}
 	});
